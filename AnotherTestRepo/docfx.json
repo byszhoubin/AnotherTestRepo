@@ -32,7 +32,7 @@
         ]
       }
     ],
-    "overwrite": [],
+    + "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
       "breadcrumb_path": "/AnotherTestRepo/breadcrumb/toc.json",
