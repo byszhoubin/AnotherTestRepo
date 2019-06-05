@@ -1,7 +1,7 @@
 {
   "docsets_to_publish": [
     {
-      "docset_name": "AnotherTestRepo",
+      "docset_name": "AnotherTestRepo1",
       "build_source_folder": "AnotherTestRepo",
       "build_output_subfolder": "AnotherTestRepo",
       "locale": "en-us",
